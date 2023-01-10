@@ -1,0 +1,9 @@
+venv/
+json/
+text/
+lib/
+initial_testing/
+bin/
+pyvenv.cfg
+.DS_Store
+*.zip

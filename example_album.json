@@ -1,0 +1,1678 @@
+{
+    "album": {
+        "_type": "album",
+        "api_path": "/albums/809813",
+        "comment_count": 3,
+        "cover_art_thumbnail_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.300x300x1.png",
+        "cover_art_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.1000x1000x1.png",
+        "custom_header_image_url": "https://images.genius.com/005a5d703ff7cff6bf1e56749f0d5ae7.1000x333x1.png",
+        "description_preview": "Voyage is ABBA\u2019s long-awaited ninth studio album, set to be released on November 5, 2021 \u2013 exactly 39 years, 11 months, and 6 days since the group\u2019s previous studio album, The Visitors. The first two singles from the album, \u201cI Still Have Faith In You\u201d and \u201cDon\u2019t Shut Me Down\u201d, were released on September 2, 2021, alongisde a YouTube live stream announcing the album and accompanying ABBAtar hologram concert.\n\nSoon after first reuniting in 2016 to celebrate the 50th anniversary of Bjorn Ulveaus and Benny Andersson \u2013 ABBA\u2019s principle songwriters \u2013 first meeting, the group announced that they were planning to create digital avatars that would go on tour and play the group\u2019s greatest hits. Not long after this announcement, ABBA began to record two new songs, \u201cI Still Have Faith In You\u201d and \u201cDon\u2019t Shut Me Down\u201d, which were announced in 2018. Due to delays in getting the project together, the group later announced that 5 new songs would be released in 2019. Due to the COVID-19 pandemic, the project was delayed and ABBA decided to record a full album. Meanwhile, for the hologram concert, a facility called the \u201cABBA Arena\u201d was built in London, England to host it.\n\nAmong the eight brand new songs, the album will also include \u201cJust A Notion\u201d, originally intended for inclusion on the Thank You for the Music box set in 1994, only to be rejected due to mixing issues, and instead only included as a small snippet in the \u201cABBA Undeleted\u201d medley. The song was originally recorded in 1978 during early sessions for ABBA\u2019s sixth studio album, Voulez-Vous.",
+        "full_title": "Voyage by ABBA",
+        "header_image_url": "https://images.genius.com/005a5d703ff7cff6bf1e56749f0d5ae7.1000x333x1.png",
+        "id": 809813,
+        "lock_state": "editable",
+        "name": "Voyage",
+        "name_with_artist": "Voyage (artist: ABBA)",
+        "pyongs_count": 8,
+        "release_date": "2021-11-05",
+        "release_date_components": {
+            "year": 2021,
+            "month": 11,
+            "day": 5
+        },
+        "tracking_paths": {
+            "aggregate": "/albums/Abba/Voyage",
+            "concurrent": "/albums/Abba/Voyage"
+        },
+        "url": "https://genius.com/albums/Abba/Voyage",
+        "current_user_metadata": {
+            "permissions": [
+                "create_comment"
+            ],
+            "excluded_permissions": [
+                "edit",
+                "destroy",
+                "pyong",
+                "lock",
+                "super_lock",
+                "unlock",
+                "sort_songs",
+                "see_short_id",
+                "create_question"
+            ],
+            "interactions": {
+                "pyong": false
+            }
+        },
+        "song_pageviews": 307801,
+        "artist": {
+            "_type": "artist",
+            "api_path": "/artists/33385",
+            "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+            "id": 33385,
+            "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+            "index_character": "a",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "ABBA",
+            "slug": "Abba",
+            "url": "https://genius.com/artists/Abba"
+        },
+        "cover_arts": [
+            {
+                "_type": "cover_art",
+                "annotated": false,
+                "api_path": "/albums/809813",
+                "id": 698910,
+                "image_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.1000x1000x1.png",
+                "thumbnail_image_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.300x300x1.png",
+                "url": "https://genius.com/album_cover_arts/698910",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "destroy"
+                    ]
+                }
+            },
+            {
+                "_type": "cover_art",
+                "annotated": false,
+                "api_path": "/albums/809813",
+                "id": 855014,
+                "image_url": "https://images.genius.com/1a2a803bbe1dc223ff65dc5a665689fc.1000x1000x1.jpg",
+                "thumbnail_image_url": "https://images.genius.com/1a2a803bbe1dc223ff65dc5a665689fc.300x300x1.jpg",
+                "url": "https://genius.com/album_cover_arts/855014",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "destroy"
+                    ]
+                }
+            }
+        ],
+        "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2701363,
+            "annotator_login": "la-poubelle",
+            "api_path": "/referents/23823172",
+            "classification": "accepted",
+            "fragment": "Voyage",
+            "id": 23823172,
+            "ios_app_url": "genius://referents/23823172",
+            "is_description": true,
+            "is_image": false,
+            "path": "/23823172/Voyage/Voyage",
+            "range": {
+                "content": "Voyage"
+            },
+            "song_id": null,
+            "url": "https://genius.com/23823172/Voyage/Voyage",
+            "verified_annotator_ids": [],
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "add_pinned_annotation_to",
+                    "add_community_annotation_to"
+                ],
+                "relationships": {}
+            },
+            "tracking_paths": {
+                "aggregate": "/23823172/Voyage/Voyage",
+                "concurrent": "/albums/Abba/Voyage"
+            },
+            "twitter_share_message": "\u201cVoyage is ABBA\u2019s long-awaited ninth studio album, set to be released on November 5, 2021 \u2013 exact\u2026\u201d \u2014@Genius",
+            "annotatable": {
+                "_type": "album",
+                "api_path": "/albums/809813",
+                "context": "ABBA",
+                "id": 809813,
+                "image_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.300x300x1.png",
+                "link_title": "Voyage",
+                "title": "Voyage",
+                "type": "Album",
+                "url": "https://genius.com/albums/Abba/Voyage"
+            },
+            "annotations": [
+                {
+                    "_type": "annotation",
+                    "api_path": "/annotations/23823172",
+                    "being_created": false,
+                    "body": {
+                        "plain": "Voyage is ABBA\u2019s long-awaited ninth studio album, set to be released on November 5, 2021 \u2013 exactly 39 years, 11 months, and 6 days since the group\u2019s previous studio album, The Visitors. The first two singles from the album, \u201cI Still Have Faith In You\u201d and \u201cDon\u2019t Shut Me Down\u201d, were released on September 2, 2021, alongisde a YouTube live stream announcing the album and accompanying ABBAtar hologram concert.\n\nSoon after first reuniting in 2016 to celebrate the 50th anniversary of Bjorn Ulveaus and Benny Andersson \u2013 ABBA\u2019s principle songwriters \u2013 first meeting, the group announced that they were planning to create digital avatars that would go on tour and play the group\u2019s greatest hits. Not long after this announcement, ABBA began to record two new songs, \u201cI Still Have Faith In You\u201d and \u201cDon\u2019t Shut Me Down\u201d, which were announced in 2018. Due to delays in getting the project together, the group later announced that 5 new songs would be released in 2019. Due to the COVID-19 pandemic, the project was delayed and ABBA decided to record a full album. Meanwhile, for the hologram concert, a facility called the \u201cABBA Arena\u201d was built in London, England to host it.\n\nAmong the eight brand new songs, the album will also include \u201cJust A Notion\u201d, originally intended for inclusion on the Thank You for the Music box set in 1994, only to be rejected due to mixing issues, and instead only included as a small snippet in the \u201cABBA Undeleted\u201d medley. The song was originally recorded in 1978 during early sessions for ABBA\u2019s sixth studio album, Voulez-Vous."
+                    },
+                    "comment_count": 0,
+                    "community": true,
+                    "created_at": 1630604910,
+                    "custom_preview": null,
+                    "deleted": false,
+                    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/23823172/standalone_embed'><a href='https://genius.com/23823172/Voyage/Voyage'>Voyage</a><br><a href='https://genius.com/albums/Abba/Voyage'>&#8213; Voyage</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+                    "has_voters": true,
+                    "id": 23823172,
+                    "needs_exegesis": false,
+                    "pinned": false,
+                    "proposed_edit_count": 0,
+                    "pyongs_count": null,
+                    "referent_id": 23823172,
+                    "share_url": "https://genius.com/23823172",
+                    "source": null,
+                    "state": "accepted",
+                    "twitter_share_message": "\u201cVoyage is ABBA\u2019s long-awaited ninth studio album, set to be released on November 5, 2021 \u2013 exactly 39 ye\u2026\u201d \u2014@Genius",
+                    "url": "https://genius.com/23823172/Voyage/Voyage",
+                    "verified": false,
+                    "votes_total": 15,
+                    "current_user_metadata": {
+                        "permissions": [
+                            "create_comment"
+                        ],
+                        "excluded_permissions": [
+                            "vote",
+                            "edit",
+                            "cosign",
+                            "uncosign",
+                            "destroy",
+                            "accept",
+                            "reject",
+                            "see_unreviewed",
+                            "clear_votes",
+                            "propose_edit_to",
+                            "pin_to_profile",
+                            "unpin_from_profile",
+                            "update_source",
+                            "edit_custom_preview"
+                        ],
+                        "interactions": {
+                            "cosign": false,
+                            "pyong": false,
+                            "vote": null
+                        },
+                        "iq_by_action": {}
+                    },
+                    "accepted_by": {
+                        "_type": "user",
+                        "about_me_summary": "Earthling from Roswell, NM, residing in NYC & Miami;\nHeavy into music and lyrics, I\u2019m a singer/songwriter/lyricist, founder of Neuro (the band) aka Neuro NYC\n\nNeuro album 1: \u201cMind Altar\u201d\nSynaptic-website: click to Neuro\u2019s site\n\nNeuro\u2019s 2nd album, \u201cSensory Overlord\u201d, will be released incrementally starting in 2022, due to a post-dystopian monetary slump.  Contextual Bowie Lyric,\n\nit\u2019s the theater of financiers\nCount them, fifteen \u2018round a table\nWhite and dressed to kill\n\nNeuro is a politically charged art-rock project/band with prog-like sci-fi elements and psychic undertones.\n\nAnd I\u2019m nuts, or rather an MBTI INFP IDR Labs.\nNatal chart?  Cancer-Leo/Virgo Rising/Taurus moon, with 3 orbs in the 11th House of Aquarius; not that I believe in Astrology, it does drive Queen\u2019s crest (below).  My musical influences include, surprise,\n01.  Queen\n02.  Muse\n03.  David Bowie",
+                        "api_path": "/users/4365014",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2j74p705t2c",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2j74p705t2c",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2j74p705t2c",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2j74p705t2c",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/18b52shep0q",
+                        "human_readable_role_for_display": "Editor",
+                        "id": 4365014,
+                        "iq": 62775,
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "login": "jesseneuro",
+                        "name": "jesseneuro",
+                        "role_for_display": "editor",
+                        "url": "https://genius.com/jesseneuro",
+                        "current_user_metadata": {
+                            "permissions": [],
+                            "excluded_permissions": [
+                                "follow"
+                            ],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    },
+                    "authors": [
+                        {
+                            "_type": "user_attribution",
+                            "attribution": 1.0,
+                            "pinned_role": null,
+                            "user": {
+                                "_type": "user",
+                                "about_me_summary": "Professional at accidentally pressing shift+enter before I finish writing.\n\nProgress:\n* 500 IQ on the 21st of September, 2016\n* 1,000 IQ on the 13th of October, 2016\n* 2,000 IQ on 6th of October, 2017\n* 3,000 IQ on 30th of November, 2019\n* 4,000 IQ on 26th of February, 2020\n* 5,000 IQ on 4th of December, 2020\n* 6,000 IQ on 31st of January, 2021\n* 7,000 IQ on 14th of May, 2021\n* 8,000 IQ on 27th of September, 2021\n* 9,000 IQ on 8th of April, 2022\n* 10,000 IQ on 29th of December, 2022",
+                                "api_path": "/users/2701363",
+                                "avatar": {
+                                    "tiny": {
+                                        "url": "https://images.genius.com/avatars/tiny/354377d1bb98c6a81c3c0240b9ce649a",
+                                        "bounding_box": {
+                                            "width": 16,
+                                            "height": 16
+                                        }
+                                    },
+                                    "thumb": {
+                                        "url": "https://images.genius.com/avatars/thumb/354377d1bb98c6a81c3c0240b9ce649a",
+                                        "bounding_box": {
+                                            "width": 32,
+                                            "height": 32
+                                        }
+                                    },
+                                    "small": {
+                                        "url": "https://images.genius.com/avatars/small/354377d1bb98c6a81c3c0240b9ce649a",
+                                        "bounding_box": {
+                                            "width": 100,
+                                            "height": 100
+                                        }
+                                    },
+                                    "medium": {
+                                        "url": "https://images.genius.com/avatars/medium/354377d1bb98c6a81c3c0240b9ce649a",
+                                        "bounding_box": {
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                },
+                                "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ergavadl9o8",
+                                "human_readable_role_for_display": "Contributor",
+                                "id": 2701363,
+                                "iq": 10015,
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "login": "la-poubelle",
+                                "name": "la-poubelle",
+                                "role_for_display": "contributor",
+                                "url": "https://genius.com/la-poubelle",
+                                "current_user_metadata": {
+                                    "permissions": [],
+                                    "excluded_permissions": [
+                                        "follow"
+                                    ],
+                                    "interactions": {
+                                        "following": false
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "cosigned_by": [],
+                    "created_by": {
+                        "_type": "user",
+                        "about_me_summary": "Professional at accidentally pressing shift+enter before I finish writing.\n\nProgress:\n* 500 IQ on the 21st of September, 2016\n* 1,000 IQ on the 13th of October, 2016\n* 2,000 IQ on 6th of October, 2017\n* 3,000 IQ on 30th of November, 2019\n* 4,000 IQ on 26th of February, 2020\n* 5,000 IQ on 4th of December, 2020\n* 6,000 IQ on 31st of January, 2021\n* 7,000 IQ on 14th of May, 2021\n* 8,000 IQ on 27th of September, 2021\n* 9,000 IQ on 8th of April, 2022\n* 10,000 IQ on 29th of December, 2022",
+                        "api_path": "/users/2701363",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://images.genius.com/avatars/tiny/354377d1bb98c6a81c3c0240b9ce649a",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://images.genius.com/avatars/thumb/354377d1bb98c6a81c3c0240b9ce649a",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://images.genius.com/avatars/small/354377d1bb98c6a81c3c0240b9ce649a",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://images.genius.com/avatars/medium/354377d1bb98c6a81c3c0240b9ce649a",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ergavadl9o8",
+                        "human_readable_role_for_display": "Contributor",
+                        "id": 2701363,
+                        "iq": 10015,
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "login": "la-poubelle",
+                        "name": "la-poubelle",
+                        "role_for_display": "contributor",
+                        "url": "https://genius.com/la-poubelle",
+                        "current_user_metadata": {
+                            "permissions": [],
+                            "excluded_permissions": [
+                                "follow"
+                            ],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    },
+                    "rejection_comment": null,
+                    "top_comment": null,
+                    "verified_by": null
+                }
+            ]
+        },
+        "performance_groups": [],
+        "song_performances": [
+            {
+                "label": "Producers",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33383",
+                        "header_image_url": "https://images.genius.com/fa2118bf91220ca3e5ccf98615bc8c9c.1000x563x1.jpg",
+                        "id": 33383,
+                        "image_url": "https://images.genius.com/5f20d9209a49a5bbb43d7bfdf00f141b.400x400x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Ulvaeus",
+                        "slug": "Bjorn-ulvaeus",
+                        "url": "https://genius.com/artists/Bjorn-ulvaeus"
+                    }
+                ]
+            },
+            {
+                "label": "Writers",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33383",
+                        "header_image_url": "https://images.genius.com/fa2118bf91220ca3e5ccf98615bc8c9c.1000x563x1.jpg",
+                        "id": 33383,
+                        "image_url": "https://images.genius.com/5f20d9209a49a5bbb43d7bfdf00f141b.400x400x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Ulvaeus",
+                        "slug": "Bjorn-ulvaeus",
+                        "url": "https://genius.com/artists/Bjorn-ulvaeus"
+                    }
+                ]
+            },
+            {
+                "label": "Alto Saxophone",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214692",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214692,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "P\u00e4r Grebacken",
+                        "slug": "Par-grebacken",
+                        "url": "https://genius.com/artists/Par-grebacken"
+                    }
+                ]
+            },
+            {
+                "label": "Assistant Recording Engineer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1525691",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1525691,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Linn Fijal",
+                        "slug": "Linn-fijal",
+                        "url": "https://genius.com/artists/Linn-fijal"
+                    }
+                ]
+            },
+            {
+                "label": "Associate Producer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33383",
+                        "header_image_url": "https://images.genius.com/fa2118bf91220ca3e5ccf98615bc8c9c.1000x563x1.jpg",
+                        "id": 33383,
+                        "image_url": "https://images.genius.com/5f20d9209a49a5bbb43d7bfdf00f141b.400x400x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Ulvaeus",
+                        "slug": "Bjorn-ulvaeus",
+                        "url": "https://genius.com/artists/Bjorn-ulvaeus"
+                    }
+                ]
+            },
+            {
+                "label": "Background Vocals",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942825",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942825,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Advika Anikumar",
+                        "slug": "Advika-anikumar",
+                        "url": "https://genius.com/artists/Advika-anikumar"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942826",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942826,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alisa Drobina",
+                        "slug": "Alisa-drobina",
+                        "url": "https://genius.com/artists/Alisa-drobina"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942827",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942827,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "c",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Clara Helen Gaudet",
+                        "slug": "Clara-helen-gaudet",
+                        "url": "https://genius.com/artists/Clara-helen-gaudet"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942821",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942821,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "h",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Hanna McMillan",
+                        "slug": "Hanna-mcmillan",
+                        "url": "https://genius.com/artists/Hanna-mcmillan"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942823",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942823,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "i",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Iiris Kaivonen",
+                        "slug": "Iiris-kaivonen",
+                        "url": "https://genius.com/artists/Iiris-kaivonen"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942824",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942824,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "k",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kieran Gillani",
+                        "slug": "Kieran-gillani",
+                        "url": "https://genius.com/artists/Kieran-gillani"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942822",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942822,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "t",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tinnie Klemmer Domonkos",
+                        "slug": "Tinnie-klemmer-domonkos",
+                        "url": "https://genius.com/artists/Tinnie-klemmer-domonkos"
+                    }
+                ]
+            },
+            {
+                "label": "Baritone Saxophone",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2922715",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2922715,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jan Bengtsson",
+                        "slug": "Jan-bengtsson",
+                        "url": "https://genius.com/artists/Jan-bengtsson"
+                    }
+                ]
+            },
+            {
+                "label": "Bass",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1525690",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1525690,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "m",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Matt Englund",
+                        "slug": "Matt-englund",
+                        "url": "https://genius.com/artists/Matt-englund"
+                    }
+                ]
+            },
+            {
+                "label": "Cello",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1248531",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1248531,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andreas Lavotha",
+                        "slug": "Andreas-lavotha",
+                        "url": "https://genius.com/artists/Andreas-lavotha"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867825",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867825,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Anna Wallgren",
+                        "slug": "Anna-wallgren",
+                        "url": "https://genius.com/artists/Anna-wallgren"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867827",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867827,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "c",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Christina Wirdegren Alin",
+                        "slug": "Christina-wirdegren-alin",
+                        "url": "https://genius.com/artists/Christina-wirdegren-alin"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867826",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867826,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "e",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Elemer Lavotha",
+                        "slug": "Elemer-lavotha",
+                        "url": "https://genius.com/artists/Elemer-lavotha"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1855434",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1855434,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "f",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fred Lindberg",
+                        "slug": "Fred-lindberg",
+                        "url": "https://genius.com/artists/Fred-lindberg"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1855433",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1855433,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Josef Alin",
+                        "slug": "Josef-alin",
+                        "url": "https://genius.com/artists/Josef-alin"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867824",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867824,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Louise Agnani",
+                        "slug": "Louise-agnani",
+                        "url": "https://genius.com/artists/Louise-agnani"
+                    }
+                ]
+            },
+            {
+                "label": "Clarinet",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214692",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214692,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "P\u00e4r Grebacken",
+                        "slug": "Par-grebacken",
+                        "url": "https://genius.com/artists/Par-grebacken"
+                    }
+                ]
+            },
+            {
+                "label": "Conductor",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214689",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214689,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "g",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "G\u00f6ran Arnberg",
+                        "slug": "Goran-arnberg",
+                        "url": "https://genius.com/artists/Goran-arnberg"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942819",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942819,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "k",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kimberley Akester",
+                        "slug": "Kimberley-akester",
+                        "url": "https://genius.com/artists/Kimberley-akester"
+                    }
+                ]
+            },
+            {
+                "label": "Copyright \u00a9",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2868003",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2868003,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "0",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "1221 AB, under exclusive license to Polar Music International AB",
+                        "slug": "1221-ab-under-exclusive-license-to-polar-music-international-ab",
+                        "url": "https://genius.com/artists/1221-ab-under-exclusive-license-to-polar-music-international-ab"
+                    }
+                ]
+            },
+            {
+                "label": "Double Bass",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867828",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867828,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "m",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mattias Normell",
+                        "slug": "Mattias-normell",
+                        "url": "https://genius.com/artists/Mattias-normell"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867829",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867829,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sara Buschk\u00fchl",
+                        "slug": "Sara-buschkuhl",
+                        "url": "https://genius.com/artists/Sara-buschkuhl"
+                    }
+                ]
+            },
+            {
+                "label": "Drums",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/669664",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 669664,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Per Lindvall",
+                        "slug": "Per-lindvall",
+                        "url": "https://genius.com/artists/Per-lindvall"
+                    }
+                ]
+            },
+            {
+                "label": "Engineer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1147322",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1147322,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bernard L\u00f6hr",
+                        "slug": "Bernard-lohr",
+                        "url": "https://genius.com/artists/Bernard-lohr"
+                    }
+                ]
+            },
+            {
+                "label": "Flute",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214691",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214691,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jan Bengston",
+                        "slug": "Jan-bengston",
+                        "url": "https://genius.com/artists/Jan-bengston"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214692",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214692,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "P\u00e4r Grebacken",
+                        "slug": "Par-grebacken",
+                        "url": "https://genius.com/artists/Par-grebacken"
+                    }
+                ]
+            },
+            {
+                "label": "Guitar",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1050987",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1050987,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lasse Jonsson",
+                        "slug": "Lasse-jonsson",
+                        "url": "https://genius.com/artists/Lasse-jonsson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/669669",
+                        "header_image_url": "https://images.genius.com/d5561cbb6c435c7072ac7ef077b8f873.176x176x1.jpg",
+                        "id": 669669,
+                        "image_url": "https://images.genius.com/f56877f52d40213f5be439d28ddab2e1.400x400x1.jpg",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lasse Wellander",
+                        "slug": "Lasse-wellander",
+                        "url": "https://genius.com/artists/Lasse-wellander"
+                    }
+                ]
+            },
+            {
+                "label": "Harp",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942842",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942842,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "m",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Margareta Bengtson",
+                        "slug": "Margareta-bengtson",
+                        "url": "https://genius.com/artists/Margareta-bengtson"
+                    }
+                ]
+            },
+            {
+                "label": "Horn",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/483733",
+                        "header_image_url": "https://images.genius.com/bcf646a985dacc6eb245f80c74cd5e26.850x425x1.jpg",
+                        "id": 483733,
+                        "image_url": "https://images.genius.com/7887084043521607436515437ea63f03.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Olsson",
+                        "slug": "Bjorn-olsson",
+                        "url": "https://genius.com/artists/Bjorn-olsson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867870",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867870,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Johan Ahlin",
+                        "slug": "Johan-ahlin",
+                        "url": "https://genius.com/artists/Johan-ahlin"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867871",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867871,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "m",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Magnus Franz\u00e9n",
+                        "slug": "Magnus-franzen",
+                        "url": "https://genius.com/artists/Magnus-franzen"
+                    }
+                ]
+            },
+            {
+                "label": "Keyboards",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    }
+                ]
+            },
+            {
+                "label": "Mastering Engineer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/683662",
+                        "header_image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+                        "id": 683662,
+                        "image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Engelmann",
+                        "slug": "Bjorn-engelmann",
+                        "url": "https://genius.com/artists/Bjorn-engelmann"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1525691",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1525691,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Linn Fijal",
+                        "slug": "Linn-fijal",
+                        "url": "https://genius.com/artists/Linn-fijal"
+                    }
+                ]
+            },
+            {
+                "label": "Mixing Engineer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1147322",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1147322,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bernard L\u00f6hr",
+                        "slug": "Bernard-lohr",
+                        "url": "https://genius.com/artists/Bernard-lohr"
+                    }
+                ]
+            },
+            {
+                "label": "Orchesta",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867812",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867812,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stockholm Concert Orchestra",
+                        "slug": "Stockholm-concert-orchestra",
+                        "url": "https://genius.com/artists/Stockholm-concert-orchestra"
+                    }
+                ]
+            },
+            {
+                "label": "Orchestra",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867812",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867812,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stockholm Concert Orchestra",
+                        "slug": "Stockholm-concert-orchestra",
+                        "url": "https://genius.com/artists/Stockholm-concert-orchestra"
+                    }
+                ]
+            },
+            {
+                "label": "Percussion",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/669664",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 669664,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Per Lindvall",
+                        "slug": "Per-lindvall",
+                        "url": "https://genius.com/artists/Per-lindvall"
+                    }
+                ]
+            },
+            {
+                "label": "Piano",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1214689",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1214689,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "g",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "G\u00f6ran Arnberg",
+                        "slug": "Goran-arnberg",
+                        "url": "https://genius.com/artists/Goran-arnberg"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2942820",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2942820,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "k",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kimberley Akestar",
+                        "slug": "Kimberley-akestar",
+                        "url": "https://genius.com/artists/Kimberley-akestar"
+                    }
+                ]
+            },
+            {
+                "label": "Programmer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    }
+                ]
+            },
+            {
+                "label": "Programming",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    }
+                ]
+            },
+            {
+                "label": "Studio Personnel",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1147322",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1147322,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bernard L\u00f6hr",
+                        "slug": "Bernard-lohr",
+                        "url": "https://genius.com/artists/Bernard-lohr"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/683662",
+                        "header_image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+                        "id": 683662,
+                        "image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Engelmann",
+                        "slug": "Bjorn-engelmann",
+                        "url": "https://genius.com/artists/Bjorn-engelmann"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/350431",
+                        "header_image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+                        "id": 350431,
+                        "image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+                        "slug": "Bjorn-ulvaeus-and-benny-andersson",
+                        "url": "https://genius.com/artists/Bjorn-ulvaeus-and-benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1525691",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1525691,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Linn Fijal",
+                        "slug": "Linn-fijal",
+                        "url": "https://genius.com/artists/Linn-fijal"
+                    }
+                ]
+            },
+            {
+                "label": "Video Director",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2945916",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2945916,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shynola",
+                        "slug": "Shynola",
+                        "url": "https://genius.com/artists/Shynola"
+                    }
+                ]
+            },
+            {
+                "label": "Video Producer",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2871000",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2871000,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Josh Barwick",
+                        "slug": "Josh-barwick",
+                        "url": "https://genius.com/artists/Josh-barwick"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2871001",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2871001,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Svana Gisla",
+                        "slug": "Svana-gisla",
+                        "url": "https://genius.com/artists/Svana-gisla"
+                    }
+                ]
+            },
+            {
+                "label": "Video Production Company",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/454632",
+                        "header_image_url": "https://images.genius.com/fd5d86a22dfc8ef2493136ad591e1761.315x315x1.jpg",
+                        "id": 454632,
+                        "image_url": "https://images.genius.com/fd5d86a22dfc8ef2493136ad591e1761.315x315x1.jpg",
+                        "index_character": "n",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nikke Ankara",
+                        "slug": "Nikke-ankara",
+                        "url": "https://genius.com/artists/Nikke-ankara"
+                    }
+                ]
+            },
+            {
+                "label": "Viola",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1228673",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1228673,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Albin Uusij\u00e4rvi",
+                        "slug": "Albin-uusijarvi",
+                        "url": "https://genius.com/artists/Albin-uusijarvi"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867820",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867820,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "James Opie",
+                        "slug": "James-opie",
+                        "url": "https://genius.com/artists/James-opie"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867823",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867823,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jonna Inge",
+                        "slug": "Jonna-inge",
+                        "url": "https://genius.com/artists/Jonna-inge"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867821",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867821,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "J\u00f6rgen Sandlund",
+                        "slug": "Jorgen-sandlund",
+                        "url": "https://genius.com/artists/Jorgen-sandlund"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2434737",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2434737,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Petter Axelsson",
+                        "slug": "Petter-axelsson",
+                        "url": "https://genius.com/artists/Petter-axelsson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867822",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867822,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "v",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vidar Andersson Meilink",
+                        "slug": "Vidar-andersson-meilink",
+                        "url": "https://genius.com/artists/Vidar-andersson-meilink"
+                    }
+                ]
+            },
+            {
+                "label": "Violin",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867880",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867880,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andrej Nikolajev",
+                        "slug": "Andrej-nikolajev",
+                        "url": "https://genius.com/artists/Andrej-nikolajev"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1059555",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1059555,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andrey Nikolaev",
+                        "slug": "Andrey-nikolaev",
+                        "url": "https://genius.com/artists/Andrey-nikolaev"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2451512",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2451512,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "d",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Danial Shariati",
+                        "slug": "Danial-shariati",
+                        "url": "https://genius.com/artists/Danial-shariati"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2366002",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2366002,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "d",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Daniel Frankel",
+                        "slug": "Daniel-frankel",
+                        "url": "https://genius.com/artists/Daniel-frankel"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1109199",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1109199,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "d",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Daniel Migdal",
+                        "slug": "Daniel-migdal",
+                        "url": "https://genius.com/artists/Daniel-migdal"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2454839",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2454839,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "h",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Henrik Naimark",
+                        "slug": "Henrik-naimark",
+                        "url": "https://genius.com/artists/Henrik-naimark"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1998057",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1998057,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "j",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jannika Gustafsson",
+                        "slug": "Jannika-gustafsson",
+                        "url": "https://genius.com/artists/Jannika-gustafsson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1098975",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1098975,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "k",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kristina Ebbersten",
+                        "slug": "Kristina-ebbersten",
+                        "url": "https://genius.com/artists/Kristina-ebbersten"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1252324",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1252324,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "o",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Oscar Treitler",
+                        "slug": "Oscar-treitler",
+                        "url": "https://genius.com/artists/Oscar-treitler"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1109185",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1109185,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Patrik Swedrup",
+                        "slug": "Patrik-swedrup",
+                        "url": "https://genius.com/artists/Patrik-swedrup"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/2867881",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 2867881,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "t",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Thomas Ebrelius",
+                        "slug": "Thomas-ebrelius",
+                        "url": "https://genius.com/artists/Thomas-ebrelius"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1966037",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1966037,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "t",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tomas Ebrelius",
+                        "slug": "Tomas-ebrelius",
+                        "url": "https://genius.com/artists/Tomas-ebrelius"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1098978",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1098978,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "y",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ylva Magnusson",
+                        "slug": "Ylva-magnusson",
+                        "url": "https://genius.com/artists/Ylva-magnusson"
+                    }
+                ]
+            },
+            {
+                "label": "Violin Arranger",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1367360",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1367360,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andrej Power",
+                        "slug": "Andrej-power",
+                        "url": "https://genius.com/artists/Andrej-power"
+                    }
+                ]
+            },
+            {
+                "label": "Violino",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1367360",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1367360,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andrej Power",
+                        "slug": "Andrej-power",
+                        "url": "https://genius.com/artists/Andrej-power"
+                    }
+                ]
+            },
+            {
+                "label": "Vocals",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/359625",
+                        "header_image_url": "https://images.genius.com/b56fcc8387b91b64241f610f30b4abd2.600x658x1.jpg",
+                        "id": 359625,
+                        "image_url": "https://images.genius.com/177db56c84c1752696b91d95ec3671c0.1000x1000x1.jpg",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Agnetha F\u00e4ltskog",
+                        "slug": "Agnetha-faltskog",
+                        "url": "https://genius.com/artists/Agnetha-faltskog"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/669661",
+                        "header_image_url": "https://images.genius.com/6e367e802a98e777416384d97f2cfd6a.300x300x1.jpg",
+                        "id": 669661,
+                        "image_url": "https://images.genius.com/c0e128522bf7c6d814f31d71b7245bb5.1000x1000x1.jpg",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Anni-Frid Lyngstad",
+                        "slug": "Anni-frid-lyngstad",
+                        "url": "https://genius.com/artists/Anni-frid-lyngstad"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33384",
+                        "header_image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "id": 33384,
+                        "image_url": "https://images.genius.com/204e8c0eff00257b84e2ff31d05048d1.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Benny Andersson",
+                        "slug": "Benny-andersson",
+                        "url": "https://genius.com/artists/Benny-andersson"
+                    },
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/33383",
+                        "header_image_url": "https://images.genius.com/fa2118bf91220ca3e5ccf98615bc8c9c.1000x563x1.jpg",
+                        "id": 33383,
+                        "image_url": "https://images.genius.com/5f20d9209a49a5bbb43d7bfdf00f141b.400x400x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bj\u00f6rn Ulvaeus",
+                        "slug": "Bjorn-ulvaeus",
+                        "url": "https://genius.com/artists/Bjorn-ulvaeus"
+                    }
+                ]
+            },
+            {
+                "label": "Voices",
+                "artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/1576487",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "id": 1576487,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                        "index_character": "i",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "International School of Stockholm Choir",
+                        "slug": "International-school-of-stockholm-choir",
+                        "url": "https://genius.com/artists/International-school-of-stockholm-choir"
+                    }
+                ]
+            }
+        ]
+    }
+}

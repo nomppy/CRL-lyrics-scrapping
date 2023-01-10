@@ -1,0 +1,875 @@
+{
+    "albums": [
+        {
+            "_type": "album",
+            "api_path": "/albums/809813",
+            "cover_art_thumbnail_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/50048ffa92151ff3495585b994800879.1000x1000x1.png",
+            "full_title": "Voyage by ABBA",
+            "id": 809813,
+            "name": "Voyage",
+            "name_with_artist": "Voyage (artist: ABBA)",
+            "release_date_components": {
+                "year": 2021,
+                "month": 11,
+                "day": 5
+            },
+            "url": "https://genius.com/albums/Abba/Voyage",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/469647",
+            "cover_art_thumbnail_url": "https://images.genius.com/7f2ecb56567d1cf4667dd517f3ae3f46.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/7f2ecb56567d1cf4667dd517f3ae3f46.1000x1000x1.png",
+            "full_title": "Live at Wembley Arena by ABBA",
+            "id": 469647,
+            "name": "Live at Wembley Arena",
+            "name_with_artist": "Live at Wembley Arena (artist: ABBA)",
+            "release_date_components": {
+                "year": 2014,
+                "month": 9,
+                "day": 26
+            },
+            "url": "https://genius.com/albums/Abba/Live-at-wembley-arena",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/712627",
+            "cover_art_thumbnail_url": "https://images.genius.com/3f069503f62c07fc257857cf1f821bac.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/3f069503f62c07fc257857cf1f821bac.743x743x1.jpg",
+            "full_title": "Gold: Greatest Hits (40th Anniversary Edition B-sides) by ABBA",
+            "id": 712627,
+            "name": "Gold: Greatest Hits (40th Anniversary Edition B-sides)",
+            "name_with_artist": "Gold: Greatest Hits (40th Anniversary Edition B-sides) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2014,
+                "month": 4,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Gold-greatest-hits-40th-anniversary-edition-b-sides",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687559",
+            "cover_art_thumbnail_url": "https://images.genius.com/836647c3ec679ba846ac5e441f9e921e.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/836647c3ec679ba846ac5e441f9e921e.905x905x1.png",
+            "full_title": "Waterloo (Deluxe Edition) by ABBA",
+            "id": 687559,
+            "name": "Waterloo (Deluxe Edition)",
+            "name_with_artist": "Waterloo (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2014,
+                "month": 4,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Waterloo-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687556",
+            "cover_art_thumbnail_url": "https://images.genius.com/567d11d96e09fd198997a7e25db801f8.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/567d11d96e09fd198997a7e25db801f8.905x905x1.png",
+            "full_title": "Ring Ring (Deluxe Edition) by ABBA",
+            "id": 687556,
+            "name": "Ring Ring (Deluxe Edition)",
+            "name_with_artist": "Ring Ring (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2013,
+                "month": 10,
+                "day": 14
+            },
+            "url": "https://genius.com/albums/Abba/Ring-ring-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/941782",
+            "cover_art_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kngrhw7zfr",
+            "cover_art_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kngrhw7zfr",
+            "full_title": "The Visitors (Deluxe Edition) by ABBA",
+            "id": 941782,
+            "name": "The Visitors (Deluxe Edition)",
+            "name_with_artist": "The Visitors (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2012,
+                "month": 4,
+                "day": 23
+            },
+            "url": "https://genius.com/albums/Abba/The-visitors-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/911864",
+            "cover_art_thumbnail_url": "https://images.genius.com/fc40d2c119a3aabf22935610ee9b62f7.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/fc40d2c119a3aabf22935610ee9b62f7.1000x1000x1.jpg",
+            "full_title": "The Essential Collection by ABBA",
+            "id": 911864,
+            "name": "The Essential Collection",
+            "name_with_artist": "The Essential Collection (artist: ABBA)",
+            "release_date_components": {
+                "year": 2012,
+                "month": 1,
+                "day": 1
+            },
+            "url": "https://genius.com/albums/Abba/The-essential-collection",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/688980",
+            "cover_art_thumbnail_url": "https://images.genius.com/30743c58a7393ba6736fb04d7d48eea6.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/30743c58a7393ba6736fb04d7d48eea6.905x905x1.png",
+            "full_title": "Super Trouper (Deluxe Edition) by ABBA",
+            "id": 688980,
+            "name": "Super Trouper (Deluxe Edition)",
+            "name_with_artist": "Super Trouper (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 5,
+                "day": 9
+            },
+            "url": "https://genius.com/albums/Abba/Super-trouper-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687688",
+            "cover_art_thumbnail_url": "https://images.genius.com/9a1955caedaa8b34dd09a52bda78980e.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/9a1955caedaa8b34dd09a52bda78980e.856x856x1.png",
+            "full_title": "ABBA: The Album (Deluxe Edition) by ABBA",
+            "id": 687688,
+            "name": "ABBA: The Album (Deluxe Edition)",
+            "name_with_artist": "ABBA: The Album (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2007,
+                "month": 10,
+                "day": 15
+            },
+            "url": "https://genius.com/albums/Abba/Abba-the-album-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687683",
+            "cover_art_thumbnail_url": "https://images.genius.com/5ee0a192156ec3974f7454818d698e24.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/5ee0a192156ec3974f7454818d698e24.856x856x1.png",
+            "full_title": "Arrival (Deluxe Edition) by ABBA",
+            "id": 687683,
+            "name": "Arrival (Deluxe Edition)",
+            "name_with_artist": "Arrival (Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2006,
+                "month": 10,
+                "day": 9
+            },
+            "url": "https://genius.com/albums/Abba/Arrival-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687560",
+            "cover_art_thumbnail_url": "https://images.genius.com/ce9f03e78a4a1d9974058db64f23781d.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/ce9f03e78a4a1d9974058db64f23781d.1000x1000x1.png",
+            "full_title": "Waterloo (The Complete Studio Recordings Edition) by ABBA",
+            "id": 687560,
+            "name": "Waterloo (The Complete Studio Recordings Edition)",
+            "name_with_artist": "Waterloo (The Complete Studio Recordings Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Waterloo-the-complete-studio-recordings-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687551",
+            "cover_art_thumbnail_url": "https://images.genius.com/0aaa10882f98c8710492ce1ac2fb1155.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/0aaa10882f98c8710492ce1ac2fb1155.905x905x1.png",
+            "full_title": "Ring Ring (The Complete Studio Recordings Edition) by ABBA",
+            "id": 687551,
+            "name": "Ring Ring (The Complete Studio Recordings Edition)",
+            "name_with_artist": "Ring Ring (The Complete Studio Recordings Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Ring-ring-the-complete-studio-recordings-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/688979",
+            "cover_art_thumbnail_url": "https://images.genius.com/9837f72f5c76ddacf0a756a81454cecb.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/9837f72f5c76ddacf0a756a81454cecb.905x905x1.png",
+            "full_title": "Super Trouper (The Complete Studio Recordings Edition) by ABBA",
+            "id": 688979,
+            "name": "Super Trouper (The Complete Studio Recordings Edition)",
+            "name_with_artist": "Super Trouper (The Complete Studio Recordings Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Super-trouper-the-complete-studio-recordings-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687676",
+            "cover_art_thumbnail_url": "https://images.genius.com/d21c6910c1d4cef6654bae4e3cabc2e1.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/d21c6910c1d4cef6654bae4e3cabc2e1.856x856x1.png",
+            "full_title": "ABBA (The Complete Studio Recordings/Deluxe Edition) by ABBA",
+            "id": 687676,
+            "name": "ABBA (The Complete Studio Recordings/Deluxe Edition)",
+            "name_with_artist": "ABBA (The Complete Studio Recordings/Deluxe Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Abba-the-complete-studio-recordings-deluxe-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687684",
+            "cover_art_thumbnail_url": "https://images.genius.com/06920078f8a17b4967fbda6f3bb60213.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/06920078f8a17b4967fbda6f3bb60213.856x856x1.png",
+            "full_title": "Arrival (The Complete Studio Recordings Edition) by ABBA",
+            "id": 687684,
+            "name": "Arrival (The Complete Studio Recordings Edition)",
+            "name_with_artist": "Arrival (The Complete Studio Recordings Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Arrival-the-complete-studio-recordings-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/465675",
+            "cover_art_thumbnail_url": "https://images.genius.com/46a2acd3d62c20d060a9f6f6fa25b3a7.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/46a2acd3d62c20d060a9f6f6fa25b3a7.999x999x1.png",
+            "full_title": "The Complete Studio Recordings: Rarities by ABBA",
+            "id": 465675,
+            "name": "The Complete Studio Recordings: Rarities",
+            "name_with_artist": "The Complete Studio Recordings: Rarities (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/The-complete-studio-recordings-rarities",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/687689",
+            "cover_art_thumbnail_url": "https://images.genius.com/7200ef15b7aa554e392b54f2c8c0d0b1.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/7200ef15b7aa554e392b54f2c8c0d0b1.856x856x1.png",
+            "full_title": "ABBA: The Album (The Complete Studio Recordings Edition) by ABBA",
+            "id": 687689,
+            "name": "ABBA: The Album (The Complete Studio Recordings Edition)",
+            "name_with_artist": "ABBA: The Album (The Complete Studio Recordings Edition) (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 11,
+                "day": 7
+            },
+            "url": "https://genius.com/albums/Abba/Abba-the-album-the-complete-studio-recordings-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/465671",
+            "cover_art_thumbnail_url": "https://images.genius.com/f7f452949bf1313bab3bb5ddafdc998c.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/f7f452949bf1313bab3bb5ddafdc998c.1000x1000x1.png",
+            "full_title": "18 Hits by ABBA",
+            "id": 465671,
+            "name": "18 Hits",
+            "name_with_artist": "18 Hits (artist: ABBA)",
+            "release_date_components": {
+                "year": 2005,
+                "month": 9,
+                "day": 8
+            },
+            "url": "https://genius.com/albums/Abba/18-hits",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/129597",
+            "cover_art_thumbnail_url": "https://images.genius.com/91d28fcc948775fdaecfefeeb2d00b57.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/91d28fcc948775fdaecfefeeb2d00b57.999x999x1.png",
+            "full_title": "The Definitive Collection by ABBA",
+            "id": 129597,
+            "name": "The Definitive Collection",
+            "name_with_artist": "The Definitive Collection (artist: ABBA)",
+            "release_date_components": {
+                "year": 2001,
+                "month": 11,
+                "day": 2
+            },
+            "url": "https://genius.com/albums/Abba/The-definitive-collection",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/465673",
+            "cover_art_thumbnail_url": "https://images.genius.com/a5c29c459ae3cf558406addc2f725b19.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/a5c29c459ae3cf558406addc2f725b19.600x600x1.png",
+            "full_title": "Thank You for the Music by ABBA",
+            "id": 465673,
+            "name": "Thank You for the Music",
+            "name_with_artist": "Thank You for the Music (artist: ABBA)",
+            "release_date_components": {
+                "year": 1994,
+                "month": 10,
+                "day": 31
+            },
+            "url": "https://genius.com/albums/Abba/Thank-you-for-the-music",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/941955",
+            "cover_art_thumbnail_url": "https://images.genius.com/308743b372356a200567e8d22e16ddbc.298x298x1.jpg",
+            "cover_art_url": "https://images.genius.com/308743b372356a200567e8d22e16ddbc.298x298x1.jpg",
+            "full_title": "Opus 10 by ABBA",
+            "id": 941955,
+            "name": "Opus 10",
+            "name_with_artist": "Opus 10 (artist: ABBA)",
+            "release_date_components": {
+                "year": 1994,
+                "month": null,
+                "day": null
+            },
+            "url": "https://genius.com/albums/Abba/Opus-10",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/460318",
+            "cover_art_thumbnail_url": "https://images.genius.com/1b41e9a2cb05f567dbb4f42141e9775e.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/1b41e9a2cb05f567dbb4f42141e9775e.999x999x1.png",
+            "full_title": "More ABBA Gold: More ABBA Hits by ABBA",
+            "id": 460318,
+            "name": "More ABBA Gold: More ABBA Hits",
+            "name_with_artist": "More ABBA Gold: More ABBA Hits (artist: ABBA)",
+            "release_date_components": {
+                "year": 1993,
+                "month": 5,
+                "day": 23
+            },
+            "url": "https://genius.com/albums/Abba/More-abba-gold-more-abba-hits",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/142501",
+            "cover_art_thumbnail_url": "https://images.genius.com/43127425d3ca9c030c5fad9746612111.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/43127425d3ca9c030c5fad9746612111.999x999x1.png",
+            "full_title": "Oro: Grandes \u00c9xitos by ABBA",
+            "id": 142501,
+            "name": "Oro: Grandes \u00c9xitos",
+            "name_with_artist": "Oro: Grandes \u00c9xitos (artist: ABBA)",
+            "release_date_components": {
+                "year": 1993,
+                "month": null,
+                "day": null
+            },
+            "url": "https://genius.com/albums/Abba/Oro-grandes-exitos",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/142506",
+            "cover_art_thumbnail_url": "https://images.genius.com/a4f45e319fbe932787d8412ba8f03194.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/a4f45e319fbe932787d8412ba8f03194.999x999x1.png",
+            "full_title": "Gold: Greatest Hits by ABBA",
+            "id": 142506,
+            "name": "Gold: Greatest Hits",
+            "name_with_artist": "Gold: Greatest Hits (artist: ABBA)",
+            "release_date_components": {
+                "year": 1992,
+                "month": 9,
+                "day": 21
+            },
+            "url": "https://genius.com/albums/Abba/Gold-greatest-hits",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/785515",
+            "cover_art_thumbnail_url": "https://images.genius.com/dfb49edffc0e8eb047fe3de6c94ee910.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/dfb49edffc0e8eb047fe3de6c94ee910.395x395x1.jpg",
+            "full_title": "Os Grandes Sucessos by ABBA",
+            "id": 785515,
+            "name": "Os Grandes Sucessos",
+            "name_with_artist": "Os Grandes Sucessos (artist: ABBA)",
+            "release_date_components": {
+                "year": 1988,
+                "month": null,
+                "day": null
+            },
+            "url": "https://genius.com/albums/Abba/Os-grandes-sucessos",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/467380",
+            "cover_art_thumbnail_url": "https://images.genius.com/b7db8a6882476556c21bf142756ecd30.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/b7db8a6882476556c21bf142756ecd30.1000x1000x1.png",
+            "full_title": "ABBA Live by ABBA",
+            "id": 467380,
+            "name": "ABBA Live",
+            "name_with_artist": "ABBA Live (artist: ABBA)",
+            "release_date_components": {
+                "year": 1986,
+                "month": 8,
+                "day": 18
+            },
+            "url": "https://genius.com/albums/Abba/Abba-live",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/465573",
+            "cover_art_thumbnail_url": "https://images.genius.com/adc4c03c170a68a77dfc5ae7b4602a0e.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/adc4c03c170a68a77dfc5ae7b4602a0e.999x999x1.png",
+            "full_title": "The Singles: The First Ten Years by ABBA",
+            "id": 465573,
+            "name": "The Singles: The First Ten Years",
+            "name_with_artist": "The Singles: The First Ten Years (artist: ABBA)",
+            "release_date_components": {
+                "year": 1982,
+                "month": 11,
+                "day": 8
+            },
+            "url": "https://genius.com/albums/Abba/The-singles-the-first-ten-years",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/125904",
+            "cover_art_thumbnail_url": "https://images.genius.com/70398a52b6ab4570831bd588ce149f41.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/70398a52b6ab4570831bd588ce149f41.999x999x1.png",
+            "full_title": "The Visitors  by ABBA",
+            "id": 125904,
+            "name": "The Visitors ",
+            "name_with_artist": "The Visitors  (artist: ABBA)",
+            "release_date_components": {
+                "year": 1981,
+                "month": 11,
+                "day": 30
+            },
+            "url": "https://genius.com/albums/Abba/The-visitors",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/554910",
+            "cover_art_thumbnail_url": "https://images.genius.com/a1b4770ba5511b7ec4865dabb6296664.299x299x1.jpg",
+            "cover_art_url": "https://images.genius.com/a1b4770ba5511b7ec4865dabb6296664.299x299x1.jpg",
+            "full_title": "Hovas Vittne by ABBA",
+            "id": 554910,
+            "name": "Hovas Vittne",
+            "name_with_artist": "Hovas Vittne (artist: ABBA)",
+            "release_date_components": {
+                "year": 1981,
+                "month": null,
+                "day": null
+            },
+            "url": "https://genius.com/albums/Abba/Hovas-vittne",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/26154",
+            "cover_art_thumbnail_url": "https://images.genius.com/d1233797e94a9d6a7b0497a0c16f3054.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/d1233797e94a9d6a7b0497a0c16f3054.1000x1000x1.png",
+            "full_title": "Super Trouper by ABBA",
+            "id": 26154,
+            "name": "Super Trouper",
+            "name_with_artist": "Super Trouper (artist: ABBA)",
+            "release_date_components": {
+                "year": 1980,
+                "month": 11,
+                "day": 3
+            },
+            "url": "https://genius.com/albums/Abba/Super-trouper",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/33385",
+                "header_image_url": "https://images.genius.com/d3389cff916361866f4e14224dc40af2.1000x563x1.jpg",
+                "id": 33385,
+                "image_url": "https://images.genius.com/758ef8ee39afd6b80ae541a4753f792a.640x640x1.jpg",
+                "index_character": "a",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "ABBA",
+                "slug": "Abba",
+                "url": "https://genius.com/artists/Abba"
+            }
+        }
+    ],
+    "next_page": 2
+}

@@ -1,0 +1,383 @@
+{
+    "song": {
+        "annotation_count": 1,
+        "api_path": "/songs/33385",
+        "apple_music_id": "542528907",
+        "apple_music_player_url": "https://genius.com/songs/33385/apple_music_player",
+        "artist_names": "Mo B. Dick (Ft. Anita Thomas & Ms. Peaches)",
+        "description": {
+            "plain": "?"
+        },
+        "embed_content": "<div id='rg_embed_link_33385' class='rg_embed_link' data-song-id='33385'>Read <a href='https://genius.com/Mo-b-dick-could-it-b-lyrics'>\u201cCould it B?\u201d by Mo\u00a0B. Dick</a> on Genius</div> <script crossorigin src='//genius.com/songs/33385/embed.js'></script>",
+        "featured_video": false,
+        "full_title": "Could it B? by\u00a0Mo\u00a0B. Dick (Ft.\u00a0Anita\u00a0Thomas & Ms.\u00a0Peaches)",
+        "header_image_thumbnail_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.494x494x1.jpg",
+        "id": 33385,
+        "language": "en",
+        "lyrics_owner_id": 50,
+        "lyrics_placeholder_reason": null,
+        "lyrics_state": "complete",
+        "path": "/Mo-b-dick-could-it-b-lyrics",
+        "pyongs_count": null,
+        "recording_location": null,
+        "relationships_index_url": "https://genius.com/Mo-b-dick-could-it-b-sample",
+        "release_date": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.494x494x1.jpg",
+        "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 0,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+        },
+        "title": "Could it B?",
+        "title_with_featured": "Could it B? (Ft.\u00a0Anita\u00a0Thomas & Ms.\u00a0Peaches)",
+        "url": "https://genius.com/Mo-b-dick-could-it-b-lyrics",
+        "current_user_metadata": {
+            "permissions": [
+                "view_apple_music_player",
+                "view_recommendations",
+                "create_comment",
+                "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+                "follow",
+                "award_transcription_iq",
+                "remove_transcription_iq",
+                "see_pageviews",
+                "pyong",
+                "edit_lyrics",
+                "view_annotation_engagement_data",
+                "publish",
+                "unpublish",
+                "edit_spotify_details",
+                "hide",
+                "unhide",
+                "toggle_featured_video",
+                "add_pinned_annotation_to",
+                "add_community_annotation_to",
+                "destroy",
+                "mark_as_not_spam",
+                "edit_spotify_annotations_for",
+                "verify_lyrics",
+                "unverify_lyrics",
+                "edit_anything",
+                "edit_any_media",
+                "edit",
+                "rename",
+                "edit_tags",
+                "reindex",
+                "view_lyrics_synchronization",
+                "enable_media",
+                "disable_media",
+                "edit_lyrics_or_annotation_brackets",
+                "see_editorial_indicators",
+                "view_attribution_visualization",
+                "edit_annotation_brackets",
+                "preview_lyrics_for_export",
+                "hide_apple_player",
+                "unhide_apple_player",
+                "trigger_apple_match",
+                "mark_lyrics_evaluation_as_complete",
+                "mark_lyrics_evaluation_as_staff_approved",
+                "unmark_lyrics_evaluation_as_complete",
+                "mark_lyrics_evaluation_as_un_staff_approved",
+                "view_transcriber_media_player",
+                "override_apple_match",
+                "set_song_color_gradient",
+                "mark_as_hot",
+                "unmark_as_hot",
+                "view_relationships_page",
+                "edit_youtube_url",
+                "edit_soundcloud_url",
+                "edit_spotify_uuid",
+                "edit_vevo_url",
+                "moderate_annotations",
+                "create_annotation",
+                "see_short_id",
+                "manage_chart_item",
+                "create_tag",
+                "propose_lyrics_edit",
+                "view_lyrics_edit_proposals_on_song",
+                "create_question"
+            ],
+            "interactions": {
+                "pyong": false,
+                "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+        },
+        "album": {
+            "api_path": "/albums/6676",
+            "cover_art_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.494x494x1.jpg",
+            "full_title": "Gangsta Harmony by Mo B. Dick",
+            "id": 6676,
+            "name": "Gangsta Harmony",
+            "url": "https://genius.com/albums/Mo-b-dick/Gangsta-harmony",
+            "artist": {
+                "api_path": "/artists/3590",
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/376101.jpg",
+                "id": 3590,
+                "image_url": "https://s3.amazonaws.com/rapgenius/376101.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Mo B. Dick",
+                "url": "https://genius.com/artists/Mo-b-dick"
+            }
+        },
+        "custom_performances": [],
+        "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 50,
+            "annotator_login": "AlysonWonderland",
+            "api_path": "/referents/3523676",
+            "classification": "needs_exegesis",
+            "fragment": "Could it B?",
+            "id": 3523676,
+            "is_description": true,
+            "path": "/3523676/Mo-b-dick-could-it-b/Could-it-b",
+            "range": {
+                "content": "Could it B?"
+            },
+            "song_id": 33385,
+            "url": "https://genius.com/3523676/Mo-b-dick-could-it-b/Could-it-b",
+            "verified_annotator_ids": [],
+            "annotatable": {
+                "api_path": "/songs/33385",
+                "client_timestamps": {
+                    "updated_by_human_at": 1420750886,
+                    "lyrics_updated_at": 0
+                },
+                "context": "Mo B. Dick",
+                "id": 33385,
+                "image_url": "https://images.genius.com/df4a2f8dad661a204142eb58dcfb7788.494x494x1.jpg",
+                "link_title": "Could it B? by\u00a0Mo\u00a0B. Dick (Ft.\u00a0Anita\u00a0Thomas & Ms.\u00a0Peaches)",
+                "title": "Could it B?",
+                "type": "Song",
+                "url": "https://genius.com/Mo-b-dick-could-it-b-lyrics"
+            },
+            "annotations": [
+                {
+                    "api_path": "/annotations/3523676",
+                    "body": {
+                        "plain": ""
+                    },
+                    "comment_count": 0,
+                    "community": true,
+                    "custom_preview": null,
+                    "has_voters": false,
+                    "id": 3523676,
+                    "pinned": false,
+                    "share_url": "https://genius.com/3523676",
+                    "source": null,
+                    "state": "needs_exegesis",
+                    "url": "https://genius.com/3523676/Mo-b-dick-could-it-b/Could-it-b",
+                    "verified": false,
+                    "votes_total": 0,
+                    "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                            "vote",
+                            "edit",
+                            "cosign",
+                            "uncosign",
+                            "destroy",
+                            "accept",
+                            "reject",
+                            "see_unreviewed",
+                            "clear_votes",
+                            "propose_edit_to",
+                            "pin_to_profile",
+                            "unpin_from_profile",
+                            "update_source",
+                            "edit_custom_preview",
+                            "create_comment"
+                        ],
+                        "interactions": {
+                            "cosign": false,
+                            "pyong": false,
+                            "vote": null
+                        },
+                        "iq_by_action": {}
+                    },
+                    "authors": [
+                        {
+                            "attribution": 1.0,
+                            "pinned_role": null,
+                            "user": {
+                                "api_path": "/users/50",
+                                "avatar": {
+                                    "tiny": {
+                                        "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+                                        "bounding_box": {
+                                            "width": 16,
+                                            "height": 16
+                                        }
+                                    },
+                                    "thumb": {
+                                        "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+                                        "bounding_box": {
+                                            "width": 32,
+                                            "height": 32
+                                        }
+                                    },
+                                    "small": {
+                                        "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+                                        "bounding_box": {
+                                            "width": 100,
+                                            "height": 100
+                                        }
+                                    },
+                                    "medium": {
+                                        "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+                                        "bounding_box": {
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                },
+                                "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+                                "human_readable_role_for_display": "Contributor",
+                                "id": 50,
+                                "iq": 3439,
+                                "login": "AlysonWonderland",
+                                "name": "AlysonWonderland",
+                                "role_for_display": "contributor",
+                                "url": "https://genius.com/AlysonWonderland",
+                                "current_user_metadata": {
+                                    "permissions": [],
+                                    "excluded_permissions": [
+                                        "follow"
+                                    ],
+                                    "interactions": {
+                                        "following": false
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "cosigned_by": [],
+                    "rejection_comment": null,
+                    "verified_by": null
+                }
+            ]
+        },
+        "featured_artists": [
+            {
+                "api_path": "/artists/3525",
+                "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                "id": 3525,
+                "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Ms. Peaches",
+                "url": "https://genius.com/artists/Ms-peaches"
+            },
+            {
+                "api_path": "/artists/4219",
+                "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                "id": 4219,
+                "image_url": "https://assets.genius.com/images/default_avatar_300.png?1671727067",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Anita Thomas",
+                "url": "https://genius.com/artists/Anita-thomas"
+            }
+        ],
+        "lyrics_marked_complete_by": null,
+        "lyrics_marked_staff_approved_by": null,
+        "media": [
+            {
+                "native_uri": "spotify:track:5IgMfw0JVZEPHLNUALQvMQ",
+                "provider": "spotify",
+                "type": "audio",
+                "url": "https://open.spotify.com/track/5IgMfw0JVZEPHLNUALQvMQ"
+            }
+        ],
+        "primary_artist": {
+            "api_path": "/artists/3590",
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/376101.jpg",
+            "id": 3590,
+            "image_url": "https://s3.amazonaws.com/rapgenius/376101.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mo B. Dick",
+            "url": "https://genius.com/artists/Mo-b-dick"
+        },
+        "producer_artists": [],
+        "song_relationships": [
+            {
+                "relationship_type": "samples",
+                "type": "samples",
+                "songs": []
+            },
+            {
+                "relationship_type": "sampled_in",
+                "type": "sampled_in",
+                "songs": []
+            },
+            {
+                "relationship_type": "interpolates",
+                "type": "interpolates",
+                "songs": []
+            },
+            {
+                "relationship_type": "interpolated_by",
+                "type": "interpolated_by",
+                "songs": []
+            },
+            {
+                "relationship_type": "cover_of",
+                "type": "cover_of",
+                "songs": []
+            },
+            {
+                "relationship_type": "covered_by",
+                "type": "covered_by",
+                "songs": []
+            },
+            {
+                "relationship_type": "remix_of",
+                "type": "remix_of",
+                "songs": []
+            },
+            {
+                "relationship_type": "remixed_by",
+                "type": "remixed_by",
+                "songs": []
+            },
+            {
+                "relationship_type": "live_version_of",
+                "type": "live_version_of",
+                "songs": []
+            },
+            {
+                "relationship_type": "performed_live_as",
+                "type": "performed_live_as",
+                "songs": []
+            },
+            {
+                "relationship_type": "translation_of",
+                "type": "translation_of",
+                "songs": []
+            },
+            {
+                "relationship_type": "translations",
+                "type": "translations",
+                "songs": []
+            }
+        ],
+        "translation_songs": [],
+        "verified_annotations_by": [],
+        "verified_contributors": [],
+        "verified_lyrics_by": [],
+        "writer_artists": []
+    }
+}
